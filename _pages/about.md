@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal website for Yubin Xie"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,5 @@ redirect_from:
 ---
 
 
-A data-driven personal website
-======
 Hi Welcome to my personal website
 
