@@ -1,0 +1,15 @@
+---
+title: "Regenerative lineages and immune-mediated pruning in lung cancer metastasis"
+collection: publications
+permalink: /publication/2020-02-10-LungCancer-NatureMedicine
+excerpt: 'Developmental processes underlying normal tissue regeneration have been implicated in cancer, but the degree of their enactment during tumor progression and under the selective pressures of immune surveillance, remain unknown. Here we show that human primary lung adenocarcinomas are characterized by the emergence of regenerative cell types, typically seen in response to lung injury, and by striking infidelity among transcription factors specifying most alveolar and bronchial epithelial lineages. In contrast, metastases are enriched for key endoderm and lung-specifying transcription factors, SOX2 and SOX9, and recapitulate more primitive transcriptional programs spanning stem-like to regenerative pulmonary epithelial progenitor states. This developmental continuum mirrors the progressive stages of spontaneous outbreak from metastatic dormancy in a mouse model and exhibits SOX9-dependent resistance to natural killer cells. Loss of developmental stage-specific constraint in macrometastases triggered by natural killer cell depletion suggests a dynamic interplay between developmental plasticity and immune-mediated pruning during metastasis.'
+date: 2020-02-10
+venue: 'Nature Medicine'
+paperurl: 'https://www.nature.com/articles/s41591-019-0750-6'
+citation: 'Laughney, A.M., Hu, J., Campbell, N.R. et al. Regenerative lineages and immune-mediated pruning in lung cancer metastasis. Nat Med 26, 259–269 (2020). '
+---
+Developmental processes underlying normal tissue regeneration have been implicated in cancer, but the degree of their enactment during tumor progression and under the selective pressures of immune surveillance, remain unknown. Here we show that human primary lung adenocarcinomas are characterized by the emergence of regenerative cell types, typically seen in response to lung injury, and by striking infidelity among transcription factors specifying most alveolar and bronchial epithelial lineages. In contrast, metastases are enriched for key endoderm and lung-specifying transcription factors, SOX2 and SOX9, and recapitulate more primitive transcriptional programs spanning stem-like to regenerative pulmonary epithelial progenitor states. This developmental continuum mirrors the progressive stages of spontaneous outbreak from metastatic dormancy in a mouse model and exhibits SOX9-dependent resistance to natural killer cells. Loss of developmental stage-specific constraint in macrometastases triggered by natural killer cell depletion suggests a dynamic interplay between developmental plasticity and immune-mediated pruning during metastasis.
+
+[Download paper here](https://www.nature.com/articles/s41591-019-0750-6)
+
+Recommended citation: Laughney, A.M., Hu, J., Campbell, N.R. et al. Regenerative lineages and immune-mediated pruning in lung cancer metastasis. Nat Med 26, 259–269 (2020).
