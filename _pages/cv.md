@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computational Biology and Medicine, Cornell University, 2022 (expected)
 * M.S. in Biomedical Science, The University of Edinburgh, 2016 
-* B.S. in Biomedical Science, Zhejiang University, 2016
+* B.S. in Biomedical Science (honor), Zhejiang University, 2016
 
 
 Work experience
