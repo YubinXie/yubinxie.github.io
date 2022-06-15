@@ -1,7 +1,7 @@
 ---
 title: "Signatures of plasticity, metastasis, and immunosuppression in an atlas of human small cell lung cancer"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Signatures of plasticity, metastasis, and immunosuppression in an atlas of human small cell lung cancer
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-11-08
 venue: 'Cancer Cell'
