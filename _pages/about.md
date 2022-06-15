@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am currently a 5th-year PhD student at The Tri-Institutional PhD Program in Computational Biology & Medicine. I am interested in applying machine learning to resolve real-life problems. I am currently studying cancer progression and metastasis with high-dimension sequencing and imaging data with machine learning and deep learning, . 
+I am currently a 5th-year PhD student at The Tri-Institutional PhD Program in Computational Biology & Medicine. I am interested in applying machine learning to resolve real-life problems. I am currently studying cancer progression and metastasis with high-dimension sequencing and imaging data with machine learning and deep learning. 
 
 Current role
 ======
