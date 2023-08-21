@@ -10,13 +10,8 @@ redirect_from:
 
 About me
 ======
-I am currently a 6th year PhD student at The Tri-Institutional PhD Program in Computational Biology and Medicine. I am interested in applying machine learning to resolve real-life problems. I am currently studying cancer progression and metastasis with high-dimension sequencing and imaging data with machine learning and deep learning. 
+I am currently a machine learning scientst in a cool oncology startup. I dod my PhD in Tri-Institutional PhD Program in Computational Biology and Medicine and I studied cancer progression and metastasis with high-dimension sequencing and imaging data with machine learning and deep learning. I am interested in applying machine learning to resolve real-life problems. 
 
-Current role
-======
-* Graduate student at Memorial Sloan Kettering Cancer Center 
-* Organizing committee of ICML Computational Biology Workshop
-* Member of “I Can´t Believe It’s Not Better” (ICBINB) initiative 
 
 Interest
 ======
