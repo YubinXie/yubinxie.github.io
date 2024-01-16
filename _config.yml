@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yubin Xie"
+  name             : "Yubin Xie, PhD"
   avatar           : "profile_yubin2.jpg"
-  bio              : "6th-Year PhD student at Cornell University Medical College"
+  bio              : "Machine learning scientist"
   location         : "New York City"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=+snow"
