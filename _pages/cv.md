@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Biology and Medicine, Cornell University, 2023 summer (expected)
+* Ph.D in Computational Biology and Medicine, Cornell University, 2023
 * M.S. in Biomedical Science, The University of Edinburgh, 2016 
 * B.S. in Biomedical Science (honor), Zhejiang University, 2016
 
