@@ -13,17 +13,11 @@ layout: compress
 
   <body>
 
+    <a class="skip-link" href="{% if page.url == '/' %}#main-content{% else %}#main{% endif %}">Skip to content</a>
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
     {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
 
     {% include scripts.html %}
 
